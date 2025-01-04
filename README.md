@@ -4,6 +4,7 @@ This repository contains a data analysis project focused on Zomato Restaurants. 
 Project Overview
 The project aims to explore and visualize various aspects of restaurants listed on Zomato, such as ratings, online ordering, and table booking options. Python libraries such as Pandas, Matplotlib, and Seaborn are used for data manipulation, visualization, and analysis.
 
+
 Files in the Repository 
 
 1) Zomato data .csv
